@@ -1,0 +1,124 @@
+{{ define "main" }}
+
+<div class="container text-center py-5">
+
+  <h1 class="fw-bold">
+    {{ if eq .Site.Language.Lang "ja" }}
+    HEMS (ECHONET Lite) 認証支援センター
+    {{ else }}
+    HEMS (ECHONET Lite) Certification Support Center
+    {{ end }}
+  </h1>
+
+  <img src="/images/fig1.png" class="img-fluid my-4" style="max-width:600px;">
+
+  <p class="lead mt-3">
+    {{ if eq .Site.Language.Lang "ja" }}
+    ECHONET Lite の普及・促進・国際化に関連する活動を行っています
+    {{ else }}
+    We are doing activities to promote ECHONET Lite protocol.
+    {{ end }}
+  </p>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSesTgzTWhHJx0m4qL1o2uMUSWlGIV6GnO10sZVuMv8g5ma_hA/viewform?usp=header" target="_blank" class="btn btn-primary my-3">
+    {{ if eq .Site.Language.Lang "ja" }}
+    お問い合わせ
+    {{ else }}
+    CONTACT
+    {{ end }}
+
+  </a>
+
+  <div class="row mt-5">
+
+    <div class="col-md-4">
+      {{ if eq .Site.Language.Lang "ja" }}
+      <h3>相互接続性</h3>
+      <p>実機を利用した検証環境の提供</p>
+      {{ $page := .Site.GetPage "/about/iot" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">詳細</a>
+      {{ else }}
+      <h3>Inter-operability</h3>
+      <p>Provide test environment with ECHONET Lite compliant equipment</p>
+      {{ $page := .Site.GetPage "/about/iot" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">Details</a>
+      {{ end }}
+    </div>
+
+    <div class="col-md-4">
+      {{ if eq .Site.Language.Lang "ja" }}
+      <h3>SDK</h3>
+      <p>SDKの開発</p>
+      {{ $page := .Site.GetPage "/sdk" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">詳細</a>
+      {{ else }}
+      <h3>SDK</h3>
+      <p>Develop SDKs</p>
+      {{ $page := .Site.GetPage "/sdk" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">Details</a>
+      {{ end }}
+    </div>
+
+    <div class="col-md-4">
+      {{ if eq .Site.Language.Lang "ja" }}
+      <h3>コンサルテーション</h3>
+      <p>技術コンサルテーションの提供</p>
+      {{ $page := .Site.GetPage "/about/consultation" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">詳細</a>
+      {{ else }}
+      <h3>Consultation</h3>
+      <p>Provide technical consultation</p>
+      {{ $page := .Site.GetPage "/about/consultation" }}
+      <a href="{{ $page.RelPermalink }}" class="btn btn-outline-primary">Details</a>
+      {{ end }}
+    </div>
+
+  </div>
+
+  <h2 class="mt-5">
+    {{ if eq .Site.Language.Lang "ja" }}
+    最新のお知らせ
+    {{ else }}
+    Latest News
+    {{ end }}
+  </h2>
+
+  <div class="row mt-3">
+
+    {{ $blog := where .Site.RegularPages "Section" "blog" }}
+    {{ range first 3 ($blog.ByDate.Reverse) }}
+
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-body">
+          <h5>{{ .Title }}</h5>
+          <p>{{ .Date.Format "2006-01-02" }}</p>
+          <div class="left-align">
+            <div style="text-align: left;">{{ .Summary }}</div>
+          </div>
+          <a href="{{ .RelPermalink }}" class="btn btn-outline-primary">
+            {{ if eq .Site.Language.Lang "ja" }}
+            続きを読む
+            {{ else }}
+            Continue
+            {{ end }}
+          </a>
+        </div>
+      </div>
+    </div>
+
+    {{ end }}
+
+  </div>
+
+  <a href="{{ relLangURL "blog"  }}" class="btn btn-primary mt-4">
+    {{ if eq .Site.Language.Lang "ja" }}
+    お知らせ一覧へ
+    {{ else }}
+    List of News
+    {{ end }}
+  </a>
+
+</div>
+
+{{ end }}

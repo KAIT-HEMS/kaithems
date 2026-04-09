@@ -1,0 +1,51 @@
+<!-- 　<h1>{{ site.Title }}</h1>　-->
+<!-- {{ partial "menu.html" (dict "menuID" "main" "page" .) }} -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="container">
+
+<a class="navbar-brand fw-bold" href="{{ .Site.Home.RelPermalink }}">
+  {{ .Site.Title }}
+</a>
+
+<button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="nav">
+
+<ul class="navbar-nav ms-auto">
+
+{{ range .Site.Menus.main }}
+  {{ if .HasChildren }}
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ .Name }}</a>
+    <ul class="dropdown-menu">
+      {{ range .Children }}
+      <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </li>
+  {{ else }}
+  <li class="nav-item">
+    <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+  </li>
+  {{ end }}
+{{ end }}
+
+<!-- 言語切替 -->
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+  <li class="nav-item">
+    <a class="nav-link text-primary" href="{{ .RelPermalink }}">
+      {{ .Language.LanguageName }}
+    </a>
+  </li>
+  {{ end }}
+{{ end }}
+
+</ul>
+
+</div>
+</div>
+</nav>

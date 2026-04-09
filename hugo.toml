@@ -1,0 +1,163 @@
+baseURL = "https://sh-center.sakura.ne.jp"
+title = "神奈川工科大学スマートハウス研究センター"
+theme = "kaithems"
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true   # ← Markdown内HTMLを許可
+
+[languages]
+
+  [languages.ja]
+    languageName = "日本語"
+    weight = 1
+    title = "神奈川工科大学スマートハウス研究センター"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Kanagawa Institute of Technology, Smart House Research Center"
+
+# ===== メニュー =====
+
+[languages.ja.menu]
+
+  [[languages.ja.menu.main]]
+    name = "ホーム"
+    url = "/ja/"
+    weight = 1
+
+  [[languages.ja.menu.main]]
+    name = "お知らせ"
+    url = "/ja/blog/"
+    weight = 2
+
+  [[languages.ja.menu.main]]
+    name = "SDK"
+    url = "/ja/sdk/"
+    weight = 3
+
+  [[languages.ja.menu.main]]
+    name = "センター紹介"
+    url = "#"
+    weight = 4
+
+  [[languages.ja.menu.main]]
+    parent = "センター紹介"
+    name = "センターの活動"
+    url = "/ja/about/activity/"
+    weight = 1
+
+  [[languages.ja.menu.main]]
+    parent = "センター紹介"
+    name = "相互接続性試験環境"
+    url = "/ja/about/iot/"
+    weight = 2
+
+  [[languages.ja.menu.main]]
+    parent = "センター紹介"
+    name = "技術コンサルテーション"
+    url = "/ja/about/consultation/"
+    weight = 3
+
+  [[languages.ja.menu.main]]
+    name = "資料"
+    url = "/ja/documents/"
+    weight = 5
+
+  [[languages.ja.menu.main]]
+    name = "アクセス"
+    url = "#"
+    weight = 6
+
+  [[languages.ja.menu.main]]
+    parent = "アクセス"
+    name = "神奈川工科大学のアクセスページ"
+    url = "https://www.kait.jp/directions/"
+    weight = 1
+
+  [[languages.ja.menu.main]]
+    parent = "アクセス"
+    name = "マップと連絡先"
+    url = "/ja/access/map/accessmap.pdf"
+    weight = 2
+
+  [[languages.ja.menu.main]]
+    parent = "アクセス"
+    name = "バス時刻表"
+    url = "/ja/access/bus/"
+    weight = 3
+
+# ===== 英語 =====
+
+[languages.en.menu]
+
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "News"
+    url = "/en/blog/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "SDK"
+    url = "/en/sdk/"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "About us"
+    url = "#"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    parent = "About us"
+    name = "Our Activities"
+    url = "/en/about/activity/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    parent = "About us"
+    name = "IOT"
+    url = "/en/about/iot/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    parent = "About us"
+    name = "Consultation"
+    url = "/en/about/consultation/"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "Documents"
+    url = "/en/documents/"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    name = "Access"
+    url = "#"
+    weight = 6
+
+  [[languages.en.menu.main]]
+    parent = "Access"
+    name = "Access Page of KAIT website"
+    url = "https://en.kait.jp/access/index.html"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    parent = "Access"
+    name = "Map & Contact Info."
+    url = "/ja/access/map/accessmap.pdf"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    parent = "Access"
+    name = "Bus Time Table"
+    url = "/en/access/bus/"
+    weight = 3

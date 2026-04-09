@@ -1,0 +1,27 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 1rem;
+}
+th, td {
+    border: 1px solid #ddd; /* 枠線を表示 */
+    padding: 8px;
+    text-align: left;
+}

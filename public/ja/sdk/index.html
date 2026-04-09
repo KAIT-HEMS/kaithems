@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>SDK</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+table, th, td {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  padding: 8px;
+}
+</style>
+
+
+<link rel="alternate" hreflang="en" href="http://localhost:1313/en/sdk/">
+
+
+</head>
+
+<body>
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="container">
+
+<a class="navbar-brand fw-bold" href="/ja/">
+  神奈川工科大学スマートハウス研究センター
+</a>
+
+<button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="nav">
+
+<ul class="navbar-nav ms-auto">
+
+
+  
+  <li class="nav-item">
+    <a class="nav-link" href="/ja/">ホーム</a>
+  </li>
+  
+
+  
+  <li class="nav-item">
+    <a class="nav-link" href="/ja/blog/">お知らせ</a>
+  </li>
+  
+
+  
+  <li class="nav-item">
+    <a class="nav-link" href="/ja/sdk/">SDK</a>
+  </li>
+  
+
+  
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">センター紹介</a>
+    <ul class="dropdown-menu">
+      
+      <li><a class="dropdown-item" href="/ja/about/activity/">センターの活動</a></li>
+      
+      <li><a class="dropdown-item" href="/ja/about/iot/">相互接続性試験環境</a></li>
+      
+      <li><a class="dropdown-item" href="/ja/about/consultation/">技術コンサルテーション</a></li>
+      
+    </ul>
+  </li>
+  
+
+  
+  <li class="nav-item">
+    <a class="nav-link" href="/ja/documents/">資料</a>
+  </li>
+  
+
+  
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">アクセス</a>
+    <ul class="dropdown-menu">
+      
+      <li><a class="dropdown-item" href="https://www.kait.jp/directions/">神奈川工科大学のアクセスページ</a></li>
+      
+      <li><a class="dropdown-item" href="/ja/access/map/accessmap.pdf">マップと連絡先</a></li>
+      
+      <li><a class="dropdown-item" href="/ja/access/bus/">バス時刻表</a></li>
+      
+    </ul>
+  </li>
+  
+
+
+
+
+  
+  <li class="nav-item">
+    <a class="nav-link text-primary" href="/en/sdk/">
+      English
+    </a>
+  </li>
+  
+
+
+</ul>
+
+</div>
+</div>
+</nav>
+
+
+
+<div class="container py-5">
+  <h1>SDK</h1>
+  <hr>
+  <h2 id="documents">Documents</h2>
+<ul>
+<li>ECHONET Lite のチュートリアル (Ver. 20191111)
+<ul>
+<li>エコーネットコンソーシアムの仕様書をもとにしたチュートリアルです</li>
+<li>ダウンロードは<a href="/ja/sdk/Tutorial_jp_20191111.pdf">こちら</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<ul>
+<li>機器エミュレータ
+<ul>
+<li>エアコンや照明やコントローラなどのエミュレーターです。</li>
+<li>動作環境：Windows, MacOS, Linux</li>
+<li><a href="https://github.com/KAIT-HEMS/elemu">GitHubへのリンク</a></li>
+</ul>
+</li>
+<li>SSNG (Node.js version)
+<ul>
+<li>ECHONET Lite の任意のパケットを作成して送信するツールです。</li>
+<li>ECHONET Lite 機器の動作確認や、ECHONET Lite プロトコルの学習に利用できます。</li>
+<li>動作環境：Windows, MacOS, Linux</li>
+<li><a href="https://github.com/KAIT-HEMS/ssng-node2">GitHubへのリンク</a></li>
+</ul>
+</li>
+<li>SSNG (iOS)
+<ul>
+<li>ECHONET Lite の任意のパケットを作成して送信するツールです。</li>
+<li>ECHONET Lite 機器の動作確認や、ECHONET Lite プロトコルの学習に利用できます。</li>
+<li>動作環境：Windows, MacOS, Linux</li>
+<li><a href="https://apps.apple.com/us/app/ssng/id1576279020">App Storeへのリンク</a></li>
+</ul>
+</li>
+<li>Appendix Viewer
+<ul>
+<li>MRAを利用して、ECHONET Lite の仕様書「APPENDIX ECHONET機器オブジェクト詳細規定」の内容をPC常に表示します。</li>
+<li>動作環境：Windows, MacOS, Linux</li>
+<li><a href="https://github.com/KAIT-HEMS/appendixViewer">GitHubへのリンク</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="middleware">Middleware</h2>
+<ul>
+<li>echonet-lite: module for Node.js by Hiroshi Sugimura
+<ul>
+<li><a href="https://www.npmjs.com/package/echonet-lite/v/0.0.8">npmへのリンク</a></li>
+</ul>
+</li>
+<li>node-echonet-lite: module for Node.js by Futomi Hatano
+<ul>
+<li><a href="https://github.com/futomi/node-echonet-lite">GitHubへのリンク</a></li>
+</ul>
+</li>
+<li>ELSwift: library for Swift by Hiroshi Sugimura
+<ul>
+<li><a href="https://github.com/Hiroshi-Sugimura/ELSwift">GitHubへのリンク</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="apps">Apps</h2>
+<ul>
+<li>EL Lighting: 照明コントローラ for iOS by Hiroshi Sugimura
+<ul>
+<li>A controller for ECHONET Lite lighting</li>
+<li>動作環境: iOS (iPhone and iPad)</li>
+<li><a href="https://apps.apple.com/jp/app/el-lighting/id1296697112">App Storeへのリンク</a></li>
+</ul>
+</li>
+<li>EL AirConditioner: エアコンコントローラ for iOS by Hiroshi Sugimura
+<ul>
+<li>A controller for ECHONET Lite airconditioner</li>
+<li>動作環境: iOS (iPhone and iPad)</li>
+<li><a href="https://apps.apple.com/jp/app/el-airconditioner/id1521183064">App Storeへのリンク</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+
+
+<footer class="bg-dark text-white text-center py-3 mt-5">
+
+    
+    © 2026 神奈川工科大学　スマートハウス研究センター
+    
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
