@@ -16,9 +16,9 @@ As part of future activities, students from laboratories in the Department of El
 
 <div style="display: flex; gap: 10px;">
 {{< figure src="./img1.jpg" alt="img1" width="300px" >}}
-{{< figure src="./img2.jpg" alt="img1" width="300px" >}}
-{{< figure src="./img3.jpg" alt="img1" width="300px" >}}
-{{< figure src="./img4.jpg" alt="img1" width="300px" >}}
+{{< figure src="./img2.jpg" alt="img2" width="300px" >}}
+{{< figure src="./img3.jpg" alt="img3" width="300px" >}}
+{{< figure src="./img4.jpg" alt="img4" width="300px" >}}
 </div>
 
 <hr>

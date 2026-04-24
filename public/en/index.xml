@@ -1,82 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Kanagawa Institute of Technology, Smart House Research Center</title>
-    <link>http://localhost:1313/en/</link>
-    <description>Recent content in Home on Kanagawa Institute of Technology, Smart House Research Center</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dr. Sukumal, Dr. Kalika and Prof. Umejima visited KAIT</title>
-      <link>http://localhost:1313/en/blog/2025-09-22/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2025-09-22/</guid>
-      <description>Thai National Casecert Univ. Dr. Sukumal, Thai National Electric Computer Technology Research Center Dr. Kalika and Prof. Umejima visited KAIT.</description>
-    </item>
-    <item>
-      <title>Mr. 謝群相(Taiwan ETC) and Professor 胡誌麟(Taiwan National Central University) visited us</title>
-      <link>http://localhost:1313/en/blog/2025-08-20/</link>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2025-08-20/</guid>
-      <description>On Aug. 20th 2025, Mr. 謝群相(Taiwan ETC) and Professor 胡誌麟(National Central University) visited us</description>
-    </item>
-    <item>
-      <title>Report about ENEX2025 Exhibition</title>
-      <link>http://localhost:1313/en/blog/2025-02-18/</link>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2025-02-18/</guid>
-      <description>For three days from Wednesday, January 29 to Friday, January 31, 2025, the Smart House Research Center of Kanagawa Institute of Technology exhibited at ENEX2025, held at Tokyo Big Sight, in joint sponsorship with the Echonet Consortium, together with companies that regularly utilize the HEMS Certification Support Center.</description>
-    </item>
-    <item>
-      <title>A mutual cooperation and collaboration agreement with the College of Electrical Engineering and Computer Science and the Institute of Energy Engineering at National Central University</title>
-      <link>http://localhost:1313/en/blog/2024-10-28/</link>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/2024-10-28/</guid>
-      <description>A mutual cooperation and collaboration agreement was concluded with the College of Electrical Engineering and Computer Science and the Institute of Energy Engineering at National Central University.</description>
-    </item>
-    <item>
-      <title>Bus Time Table at Honatsugi Station(weekday): revised on 2026.04.01</title>
-      <link>http://localhost:1313/en/access/bus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/access/bus/</guid>
-      <description>&lt;h3 id=&#34;to-kanagawa-institute-of-technology&#34;&gt;To Kanagawa Institute of Technology&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;EXPRESS To Kanagawa Institute of Technology (厚67)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No operation through Feb 15th ~ Mar 25th and Aug 8th ~ Sep 19th (exact date may vary).&lt;/li&gt;&#xA;&lt;li&gt;Bus Stop: #2 bus stop at Atsugi Bus Center&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;HH&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;MM&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;08&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;20 25 30 35 38 41 44 47 50 53 56 59&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;09&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;02&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;30 45 50 55&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;11&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;12&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;13&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;code&gt;To Atsugi Kyodo Museum via Kanagawa Institute of Technology (厚07)&lt;/code&gt;&#xA;&lt;code&gt;To Tobio Apartment via Kanagawa Institute of Technology (厚89)&lt;/code&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Consultation</title>
-      <link>http://localhost:1313/en/about/consultation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/consultation/</guid>
-      <description>&lt;p&gt;We provide technical consultation about ECHONET Lite.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Documents</title>
-      <link>http://localhost:1313/en/documents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/documents/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/documents/HEMS_panf2.pdf&#34;&gt;HEMS (ECHONETLite) Certification Support Center Pamphlet&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/ECHONET-Lite%E5%85%A5%E9%96%80-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AE%E9%80%9A%E4%BF%A1%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86-%E6%9D%89%E6%9D%91-%E5%8D%9A/dp/4274506320&#34;&gt;Book: Introduction of ECHONET Lite&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/documents/EquiList20250321.pdf&#34;&gt;Equipment List for Inter-operability Test:2025.03.21&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/documents/10thanniv-H.pdf&#34;&gt;Booklet for the 10th anniversary (high resolution edition)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/documents/10thanniv-L.pdf&#34;&gt;Booklet for the 10th anniversary (low resolution edition)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Inter-Operability Testing</title>
-      <link>http://localhost:1313/en/about/iot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/iot/</guid>
-      <description>&lt;p&gt;Inter-Operability Testing&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our Activities</title>
-      <link>http://localhost:1313/en/about/activity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/activity/</guid>
-      <description>&lt;p&gt;Our Activities&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SDK</title>
-      <link>http://localhost:1313/en/sdk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/sdk/</guid>
-      <description>&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ECHONET Lite Tutorial (Ver. 20191111)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A Tutorial based on the offical documents by ECHONET Consortium&lt;/li&gt;&#xA;&lt;li&gt;Download from &lt;a href=&#34;http://localhost:1313/ja/sdk/Tutorial_en_20191111.pdf&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device Emulator&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An emulator such as airconditioner, lighting and controller&lt;/li&gt;&#xA;&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/KAIT-HEMS/elemu&#34;&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;SSNG (Node.js version)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A tool to send ECHONET Lite packet&lt;/li&gt;&#xA;&lt;li&gt;This can be used to check ECHONET Lite devices&lt;/li&gt;&#xA;&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/KAIT-HEMS/ssng-node2&#34;&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;SSNG (iOS)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A tool to send ECHONET Lite packet&lt;/li&gt;&#xA;&lt;li&gt;This can be used to check ECHONET Lite devices&lt;/li&gt;&#xA;&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/ssng/id1576279020&#34;&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Appendix Viewer&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MRA(Machine Readable Appendix) Viewer&lt;/li&gt;&#xA;&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/KAIT-HEMS/appendixViewer&#34;&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;middleware&#34;&gt;Middleware&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;echonet-lite: module for Node.js by Hiroshi Sugimura&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/echonet-lite/v/0.0.8&#34;&gt;Link to npm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;node-echonet-lite: module for Node.js by Futomi Hatano&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/futomi/node-echonet-lite&#34;&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ELSwift: library for Swift by Hiroshi Sugimura&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Hiroshi-Sugimura/ELSwift&#34;&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;apps&#34;&gt;Apps&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;EL Lighting: A controller for iOS by Hiroshi Sugimura&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A controller for ECHONET Lite lighting&lt;/li&gt;&#xA;&lt;li&gt;OS: iOS (iPhone and iPad)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/jp/app/el-lighting/id1296697112&#34;&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;EL AirConditioner: A controller for iOS by Hiroshi Sugimura&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A controller for ECHONET Lite airconditioner&lt;/li&gt;&#xA;&lt;li&gt;OS: iOS (iPhone and iPad)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/jp/app/el-airconditioner/id1521183064&#34;&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Kanagawa Institute of Technology, Smart House Research Center</title><link>https://sh-center.sakura.ne.jp/en/</link><description>Recent content in Home on Kanagawa Institute of Technology, Smart House Research Center</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sh-center.sakura.ne.jp/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Dr. Sukumal, Dr. Kalika and Prof. Umejima visited KAIT</title><link>https://sh-center.sakura.ne.jp/en/blog/2025-09-22/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/blog/2025-09-22/</guid><description>Thai National Casecert Univ. Dr. Sukumal, Thai National Electric Computer Technology Research Center Dr. Kalika and Prof. Umejima visited KAIT.</description></item><item><title>Mr. 謝群相(Taiwan ETC) and Professor 胡誌麟(Taiwan National Central University) visited us</title><link>https://sh-center.sakura.ne.jp/en/blog/2025-08-20/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/blog/2025-08-20/</guid><description>On Aug. 20th 2025, Mr. 謝群相(Taiwan ETC) and Professor 胡誌麟(National Central University) visited us</description></item><item><title>Report about ENEX2025 Exhibition</title><link>https://sh-center.sakura.ne.jp/en/blog/2025-02-18/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/blog/2025-02-18/</guid><description>For three days from Wednesday, January 29 to Friday, January 31, 2025, the Smart House Research Center of Kanagawa Institute of Technology exhibited at ENEX2025, held at Tokyo Big Sight, in joint sponsorship with the Echonet Consortium, together with companies that regularly utilize the HEMS Certification Support Center.</description></item><item><title>A mutual cooperation and collaboration agreement with the College of Electrical Engineering and Computer Science and the Institute of Energy Engineering at National Central University</title><link>https://sh-center.sakura.ne.jp/en/blog/2024-10-28/</link><pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/blog/2024-10-28/</guid><description>A mutual cooperation and collaboration agreement was concluded with the College of Electrical Engineering and Computer Science and the Institute of Energy Engineering at National Central University.</description></item><item><title>Bus Time Table at Honatsugi Station(weekday): revised on 2026.04.01</title><link>https://sh-center.sakura.ne.jp/en/access/bus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/access/bus/</guid><description>&lt;h3 id="to-kanagawa-institute-of-technology"&gt;To Kanagawa Institute of Technology&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;EXPRESS To Kanagawa Institute of Technology (厚67)&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No operation through Feb 15th ~ Mar 25th and Aug 8th ~ Sep 19th (exact date may vary).&lt;/li&gt;
+&lt;li&gt;Bus Stop: #2 bus stop at Atsugi Bus Center&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: right"&gt;HH&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;MM&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;08&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;20 25 30 35 38 41 44 47 50 53 56 59&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;09&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;02&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;10&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;30 45 50 55&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;11&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;00&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;12&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;00&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: right"&gt;13&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;00&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;To Atsugi Kyodo Museum via Kanagawa Institute of Technology (厚07)&lt;/code&gt;
+&lt;code&gt;To Tobio Apartment via Kanagawa Institute of Technology (厚89)&lt;/code&gt;&lt;/p&gt;</description></item><item><title>Consultation</title><link>https://sh-center.sakura.ne.jp/en/about/consultation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/consultation/</guid><description>&lt;p&gt;We provide technical consultation about ECHONET Lite.&lt;/p&gt;</description></item><item><title>Documents</title><link>https://sh-center.sakura.ne.jp/en/documents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/documents/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sh-center.sakura.ne.jp/ja/documents/HEMS_panf2.pdf"&gt;HEMS (ECHONETLite) Certification Support Center Pamphlet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.amazon.co.jp/ECHONET-Lite%E5%85%A5%E9%96%80-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AE%E9%80%9A%E4%BF%A1%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E3%81%BC%E3%81%86-%E6%9D%89%E6%9D%91-%E5%8D%9A/dp/4274506320"&gt;Book: Introduction of ECHONET Lite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="EquiList20250321.pdf"&gt;Equipment List for Inter-operability Test:2025.03.21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sh-center.sakura.ne.jp/ja/documents/10thanniv-H.pdf"&gt;Booklet for the 10th anniversary (high resolution edition)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sh-center.sakura.ne.jp/ja/documents/10thanniv-L.pdf"&gt;Booklet for the 10th anniversary (low resolution edition)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Inter-Operability Testing</title><link>https://sh-center.sakura.ne.jp/en/about/iot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/iot/</guid><description>&lt;p&gt;Various ECHONET Lite–compatible devices are installed within the Smart House Research Center to build an interoperability testing environment. This environment is used not only for in-house research but is also made available to external users. In particular, the room equipped with smart electricity meters from electric power companies across Japan constitutes a unique testing environment within the country.&lt;/p&gt;</description></item><item><title>Our Activities</title><link>https://sh-center.sakura.ne.jp/en/about/activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/activity/</guid><description>&lt;p&gt;Our Activities&lt;/p&gt;</description></item><item><title>SDK</title><link>https://sh-center.sakura.ne.jp/en/sdk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/sdk/</guid><description>&lt;h2 id="documents"&gt;Documents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ECHONET Lite Tutorial (Ver. 20191111)
+&lt;ul&gt;
+&lt;li&gt;A Tutorial based on the offical documents by ECHONET Consortium&lt;/li&gt;
+&lt;li&gt;Download from &lt;a href="https://sh-center.sakura.ne.jp/ja/sdk/Tutorial_en_20191111.pdf"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tools"&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Device Emulator
+&lt;ul&gt;
+&lt;li&gt;An emulator such as airconditioner, lighting and controller&lt;/li&gt;
+&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KAIT-HEMS/elemu"&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SSNG (Node.js version)
+&lt;ul&gt;
+&lt;li&gt;A tool to send ECHONET Lite packet&lt;/li&gt;
+&lt;li&gt;This can be used to check ECHONET Lite devices&lt;/li&gt;
+&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KAIT-HEMS/ssng-node2"&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SSNG (iOS)
+&lt;ul&gt;
+&lt;li&gt;A tool to send ECHONET Lite packet&lt;/li&gt;
+&lt;li&gt;This can be used to check ECHONET Lite devices&lt;/li&gt;
+&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apps.apple.com/us/app/ssng/id1576279020"&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Appendix Viewer
+&lt;ul&gt;
+&lt;li&gt;MRA(Machine Readable Appendix) Viewer&lt;/li&gt;
+&lt;li&gt;OS：Windows, MacOS, Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KAIT-HEMS/appendixViewer"&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="middleware"&gt;Middleware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;echonet-lite: module for Node.js by Hiroshi Sugimura
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.npmjs.com/package/echonet-lite/v/0.0.8"&gt;Link to npm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;node-echonet-lite: module for Node.js by Futomi Hatano
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/futomi/node-echonet-lite"&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ELSwift: library for Swift by Hiroshi Sugimura
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/Hiroshi-Sugimura/ELSwift"&gt;Link to GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="apps"&gt;Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EL Lighting: A controller for iOS by Hiroshi Sugimura
+&lt;ul&gt;
+&lt;li&gt;A controller for ECHONET Lite lighting&lt;/li&gt;
+&lt;li&gt;OS: iOS (iPhone and iPad)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apps.apple.com/jp/app/el-lighting/id1296697112"&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;EL AirConditioner: A controller for iOS by Hiroshi Sugimura
+&lt;ul&gt;
+&lt;li&gt;A controller for ECHONET Lite airconditioner&lt;/li&gt;
+&lt;li&gt;OS: iOS (iPhone and iPad)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apps.apple.com/jp/app/el-airconditioner/id1521183064"&gt;Link to App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
