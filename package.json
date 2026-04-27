@@ -1,0 +1,10 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "sync": "rclone sync -v ./public/ sakura:/home/sh-center/www/",
+    "serv": "hugo server --gc -D"
+  }
+}
