@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on Kanagawa Institute of Technology, Smart House Research Center</title><link>https://sh-center.sakura.ne.jp/en/about/</link><description>Recent content in Abouts on Kanagawa Institute of Technology, Smart House Research Center</description><generator>Hugo</generator><language>en</language><atom:link href="https://sh-center.sakura.ne.jp/en/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Consultation</title><link>https://sh-center.sakura.ne.jp/en/about/consultation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/consultation/</guid><description>&lt;p&gt;We provide technical consultation about ECHONET Lite.&lt;/p&gt;</description></item><item><title>Inter-Operability Testing</title><link>https://sh-center.sakura.ne.jp/en/about/iot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/iot/</guid><description>&lt;p&gt;Various ECHONET Lite–compatible devices are installed within the Smart House Research Center to build an interoperability testing environment. This environment is used not only for in-house research but is also made available to external users. In particular, the room equipped with smart electricity meters from electric power companies across Japan constitutes a unique testing environment within the country.&lt;/p&gt;</description></item><item><title>Our Activities</title><link>https://sh-center.sakura.ne.jp/en/about/activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/about/activity/</guid><description>&lt;p&gt;Our Activities&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Kanagawa Institute of Technology, Smart House Research Center</title>
+    <link>http://localhost:1313/en/about/</link>
+    <description>Recent content in Abouts on Kanagawa Institute of Technology, Smart House Research Center</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultation</title>
+      <link>http://localhost:1313/en/about/consultation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/consultation/</guid>
+      <description>&lt;p&gt;We provide technical consultation about ECHONET Lite.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inter-Operability Testing</title>
+      <link>http://localhost:1313/en/about/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/iot/</guid>
+      <description>&lt;p&gt;Various ECHONET Lite–compatible devices are installed within the Smart House Research Center to build an interoperability testing environment. This environment is used not only for in-house research but is also made available to external users. In particular, the room equipped with smart electricity meters from electric power companies across Japan constitutes a unique testing environment within the country.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Activities</title>
+      <link>http://localhost:1313/en/about/activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/activity/</guid>
+      <description>&lt;p&gt;Our Activities&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

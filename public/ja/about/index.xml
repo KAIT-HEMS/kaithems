@@ -1,89 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on 神奈川工科大学スマートハウス研究センター</title><link>https://sh-center.sakura.ne.jp/ja/about/</link><description>Recent content in Abouts on 神奈川工科大学スマートハウス研究センター</description><generator>Hugo</generator><language>ja</language><atom:link href="https://sh-center.sakura.ne.jp/ja/about/index.xml" rel="self" type="application/rss+xml"/><item><title>コンサルテーション</title><link>https://sh-center.sakura.ne.jp/ja/about/consultation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/ja/about/consultation/</guid><description>&lt;p&gt;ECHONET Lite に関する技術コンサルテーションを行っています。&lt;/p&gt;</description></item><item><title>センターの活動</title><link>https://sh-center.sakura.ne.jp/ja/about/activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/ja/about/activity/</guid><description>&lt;p&gt;神奈川工科大学スマートハウス研究センターは、マルチベンダー環境でのHEMS(Home Energy Management System)を実現するための通信規格 ECHONET Lite の普及・促進・国際化に関連する活動を行っています。&lt;/p&gt;
-&lt;p&gt;ECHONET Lite の策定団体であるエコーネットコンソーシアムに学術会員として参加し、相互接続WG, 国際標準化WG, WebAPI検討WGなど多数のWorkgroupでの活動を通して貢献しています。&lt;/p&gt;
-&lt;p&gt;スマートハウス研究センター内にさまざまなECHONET Lite対応の機器を設置して、相互接続性の検証環境を構築しています。この検証環境は学内での研究に利用するだけでなく、広く外部の方々にも利用していただいています。国内各電力会社のスマート電力量メータを設置した部屋は国内唯一の試験環境です。&lt;/p&gt;
-&lt;p&gt;ECHONET Lite規格の学習のためや、ECHONET Lite対応機器の動作確認のためのツールなどを開発し、公開しています。&lt;/p&gt;</description></item><item><title>相互接続性試験環境</title><link>https://sh-center.sakura.ne.jp/ja/about/iot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/ja/about/iot/</guid><description>&lt;h2 id="神奈川工科大学hems認証支援センターご利用の案内"&gt;神奈川工科大学HEMS認証支援センターご利用の案内&lt;/h2&gt;
-&lt;h3 id="echonet-lite機器の-inter-operability-testing-に関して"&gt;ECHONET Lite機器の Inter-operability Testing に関して&lt;/h3&gt;
-&lt;p&gt;2026年5月1日 株式会社　神奈川工科大企画&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;2026年６月１日以降のご利用に関して、サービス内容と利用料金を改訂します。&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id="1-概要"&gt;1. 概要&lt;/h3&gt;
-&lt;p&gt;　神奈川工科大学HEMS認証支援センター（以下センターと呼ぶ）は、株式会社神奈川工科大企画を窓口として、センターに設置したECHONET Lite対応機器との相互接続性検証（Inter-operability Testing: IOT）に関するサービスを提供しています。市販のエアコン・照明・給湯器・EV充放電器などの住設機器だけでなく、各電力会社の低圧スマート電力量メータや高圧スマート電力量メータもご利用できます（詳細はWebサイトの&lt;a href="https://sh-center.sakura.ne.jp/ja/documents"&gt;IOTで利用できる機器リスト&lt;/a&gt;をご参照ください）。&lt;br&gt;
-　なおセンターは認証機関ではありませんので、ECHONET Lite認証申請やAIF認証申請については、エコーネットコンソーシアムのWebサイトに掲載されている認定認証機関にお問い合わせください。&lt;/p&gt;
-&lt;h3 id="2ご利用時間とご利用料金"&gt;2.ご利用時間とご利用料金&lt;/h3&gt;
-&lt;p&gt;　ご利用は、半日（午前: 9:30 – 13:15　午後: 13:15 – 17:00）あるいは1日単位となります。ご利用料金は原則前払いとなりますが、神奈川工科大企画が了承する場合後払いも可能です。お申込み時にご相談ください。&lt;/p&gt;
-&lt;h4 id="a-2026年5月29日までの利用の場合の料金"&gt;(A) 2026年5月29日までの利用の場合の料金&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;項目&lt;/th&gt;
- &lt;th style="text-align: left"&gt;料金（税別）&lt;/th&gt;
- &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;基本サービス&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;A）試験室利用：半日&lt;/td&gt;
- &lt;td style="text-align: left"&gt;150,000円&lt;/td&gt;
- &lt;td style="text-align: left"&gt;設備をセルフサービスで半日利用できます&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;B）試験室利用：１日&lt;/td&gt;
- &lt;td style="text-align: left"&gt;250,000円&lt;/td&gt;
- &lt;td style="text-align: left"&gt;設備をセルフサービスで１日利用できます&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;追加サービス&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;C）技術サポート (*)&lt;/td&gt;
- &lt;td style="text-align: left"&gt;200,000円&lt;/td&gt;
- &lt;td style="text-align: left"&gt;センター職員によるツール操作やデータ解析など&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;(*)ミドルウェアアダプター通信インタフェースの場合は必須&lt;/p&gt;
-&lt;h4 id="b-2026年６月1日以降に利用の場合の料金"&gt;(B) 2026年６月1日以降に利用の場合の料金&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;項目&lt;/th&gt;
- &lt;th style="text-align: left"&gt;料金（税別）&lt;/th&gt;
- &lt;th style="text-align: left"&gt;備考&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;基本サービス（センター職員の技術サポート有り）&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;td&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;A）設備利用：半日&lt;/td&gt;
- &lt;td style="text-align: left"&gt;300,000円&lt;/td&gt;
- &lt;td style="text-align: left"&gt;センター内の全ての設備を半日利用できます&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;B）設備利用：１日&lt;/td&gt;
- &lt;td style="text-align: left"&gt;450,000円&lt;/td&gt;
- &lt;td style="text-align: left"&gt;センター内の全ての設備を１日利用できます&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/br&gt;
-&lt;h3 id="3-申込方法"&gt;3. 申込方法&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;センターWebサイトの「お問い合わせ」（https://sh-center.org/contactus.html）からお申込みください。「題名」を「センターの設備利用」とし、利用希望候補日と利用希望設備をメッセージ本文にご記入ください。&lt;/li&gt;
-&lt;li&gt;センター職員がメールで利用日の調整をいたします。&lt;/li&gt;
-&lt;li&gt;日程確定後、利用者は設備利用申込書に記入押印し、PDFでセンターと神奈川工科大企画へご送付ください。 (To: &lt;a href="mailto:process@sh-center.org"&gt;process@sh-center.org&lt;/a&gt;, Cc: &lt;a href="mailto:hems@kait-ext.com"&gt;hems@kait-ext.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;神奈川工科大企画より申込請書と請求書をメールします。&lt;/li&gt;
-&lt;li&gt;利用日までに利用料金を支払いください。神奈川工科大企画が了承する場合は後払いも可能です。
-お申込み時にご相談ください。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id="4-予約のキャンセル変更"&gt;4. 予約のキャンセル・変更&lt;/h3&gt;
-&lt;p&gt;　予約のキャンセル・変更はメールでご連絡下さい。申込確定後は以下の費用が発生します。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 神奈川工科大学スマートハウス研究センター</title>
+    <link>http://localhost:1313/ja/about/</link>
+    <description>Recent content in Abouts on 神奈川工科大学スマートハウス研究センター</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/ja/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>コンサルテーション</title>
+      <link>http://localhost:1313/ja/about/consultation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/about/consultation/</guid>
+      <description>&lt;p&gt;ECHONET Lite に関する技術コンサルテーションを行っています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>センターの活動</title>
+      <link>http://localhost:1313/ja/about/activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/about/activity/</guid>
+      <description>&lt;p&gt;神奈川工科大学スマートハウス研究センターは、マルチベンダー環境でのHEMS(Home Energy Management System)を実現するための通信規格 ECHONET Lite の普及・促進・国際化に関連する活動を行っています。&lt;/p&gt;&#xA;&lt;p&gt;ECHONET Lite の策定団体であるエコーネットコンソーシアムに学術会員として参加し、相互接続WG, 国際標準化WG, WebAPI検討WGなど多数のWorkgroupでの活動を通して貢献しています。&lt;/p&gt;&#xA;&lt;p&gt;スマートハウス研究センター内にさまざまなECHONET Lite対応の機器を設置して、相互接続性の検証環境を構築しています。この検証環境は学内での研究に利用するだけでなく、広く外部の方々にも利用していただいています。国内各電力会社のスマート電力量メータを設置した部屋は国内唯一の試験環境です。&lt;/p&gt;&#xA;&lt;p&gt;ECHONET Lite規格の学習のためや、ECHONET Lite対応機器の動作確認のためのツールなどを開発し、公開しています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>相互接続性試験環境</title>
+      <link>http://localhost:1313/ja/about/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/about/iot/</guid>
+      <description>&lt;h2 id=&#34;神奈川工科大学hems認証支援センターご利用の案内&#34;&gt;神奈川工科大学HEMS認証支援センターご利用の案内&lt;/h2&gt;&#xA;&lt;h3 id=&#34;echonet-lite機器の-inter-operability-testing-に関して&#34;&gt;ECHONET Lite機器の Inter-operability Testing に関して&lt;/h3&gt;&#xA;&lt;p&gt;2026年5月1日   株式会社　神奈川工科大企画&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;2026年６月１日以降のご利用に関して、サービス内容と利用料金を改訂します。&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-概要&#34;&gt;1. 概要&lt;/h3&gt;&#xA;&lt;p&gt;　神奈川工科大学HEMS認証支援センター（以下センターと呼ぶ）は、株式会社神奈川工科大企画を窓口として、センターに設置したECHONET Lite対応機器との相互接続性検証（Inter-operability Testing: IOT）に関するサービスを提供しています。市販のエアコン・照明・給湯器・EV充放電器などの住設機器だけでなく、各電力会社の低圧スマート電力量メータや高圧スマート電力量メータもご利用できます（詳細はWebサイトの&lt;a href=&#34;https://sh-center.sakura.ne.jp/ja/documents&#34;&gt;IOTで利用できる機器リスト&lt;/a&gt;をご参照ください）。&lt;br&gt;&#xA;　なおセンターは認証機関ではありませんので、ECHONET Lite認証申請やAIF認証申請については、エコーネットコンソーシアムのWebサイトに掲載されている認定認証機関にお問い合わせください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2ご利用時間とご利用料金&#34;&gt;2.ご利用時間とご利用料金&lt;/h3&gt;&#xA;&lt;p&gt;　ご利用は、半日（午前: 9:30 – 13:15　午後: 13:15 – 17:00）あるいは1日単位となります。ご利用料金は原則前払いとなりますが、神奈川工科大企画が了承する場合後払いも可能です。お申込み時にご相談ください。&lt;/p&gt;&#xA;&lt;h4 id=&#34;a-2026年5月29日までの利用の場合の料金&#34;&gt;(A) 2026年5月29日までの利用の場合の料金&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;料金（税別）&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;備考&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;基本サービス&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;A）試験室利用：半日&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;150,000円&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;設備をセルフサービスで半日利用できます&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;B）試験室利用：１日&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;250,000円&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;設備をセルフサービスで１日利用できます&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;追加サービス&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;C）技術サポート (*)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;200,000円&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;センター職員によるツール操作やデータ解析など&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;(*)ミドルウェアアダプター通信インタフェースの場合は必須&lt;/p&gt;&#xA;&lt;h4 id=&#34;b-2026年６月1日以降に利用の場合の料金&#34;&gt;(B) 2026年６月1日以降に利用の場合の料金&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;項目&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;料金（税別）&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;備考&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;基本サービス（センター職員の技術サポート有り）&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;A）設備利用：半日&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;300,000円&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;センター内の全ての設備を半日利用できます&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;B）設備利用：１日&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;450,000円&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;センター内の全ての設備を１日利用できます&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/br&gt;&#xA;&lt;h3 id=&#34;3-申込方法&#34;&gt;3. 申込方法&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;センターWebサイトの「お問い合わせ」（https://sh-center.org/contactus.html）からお申込みください。「題名」を「センターの設備利用」とし、利用希望候補日と利用希望設備をメッセージ本文にご記入ください。&lt;/li&gt;&#xA;&lt;li&gt;センター職員がメールで利用日の調整をいたします。&lt;/li&gt;&#xA;&lt;li&gt;日程確定後、利用者は設備利用申込書に記入押印し、PDFでセンターと神奈川工科大企画へご送付ください。 (To: &lt;a href=&#34;mailto:process@sh-center.org&#34;&gt;process@sh-center.org&lt;/a&gt;, Cc: &lt;a href=&#34;mailto:hems@kait-ext.com&#34;&gt;hems@kait-ext.com&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;神奈川工科大企画より申込請書と請求書をメールします。&lt;/li&gt;&#xA;&lt;li&gt;利用日までに利用料金を支払いください。神奈川工科大企画が了承する場合は後払いも可能です。&#xA;お申込み時にご相談ください。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;4-予約のキャンセル変更&#34;&gt;4. 予約のキャンセル・変更&lt;/h3&gt;&#xA;&lt;p&gt;　予約のキャンセル・変更はメールでご連絡下さい。申込確定後は以下の費用が発生します。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

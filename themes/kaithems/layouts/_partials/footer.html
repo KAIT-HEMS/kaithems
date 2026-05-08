@@ -1,9 +1,5 @@
 <footer class="bg-dark text-white text-center py-3 mt-5">
 
-    {{ if eq .Site.Language.Lang "ja" }}
-    © 2026 神奈川工科大学　スマートハウス研究センター
-    {{ else }}
-    © 2026 Kanagawa Institute of Technology, Smart House Reserch Center
-    {{ end }}
+    <p>&copy; {{ now.Year }} {{ .Site.Language.Title }}</p>
 
 </footer>

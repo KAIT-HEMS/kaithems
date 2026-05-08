@@ -1,42 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Accesses on Kanagawa Institute of Technology, Smart House Research Center</title><link>https://sh-center.sakura.ne.jp/en/access/</link><description>Recent content in Accesses on Kanagawa Institute of Technology, Smart House Research Center</description><generator>Hugo</generator><language>en</language><atom:link href="https://sh-center.sakura.ne.jp/en/access/index.xml" rel="self" type="application/rss+xml"/><item><title>Bus Time Table at Honatsugi Station(weekday): revised on 2026.04.01</title><link>https://sh-center.sakura.ne.jp/en/access/bus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sh-center.sakura.ne.jp/en/access/bus/</guid><description>&lt;h3 id="to-kanagawa-institute-of-technology"&gt;To Kanagawa Institute of Technology&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;EXPRESS To Kanagawa Institute of Technology (厚67)&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;No operation through Feb 15th ~ Mar 25th and Aug 8th ~ Sep 19th (exact date may vary).&lt;/li&gt;
-&lt;li&gt;Bus Stop: #2 bus stop at Atsugi Bus Center&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: right"&gt;HH&lt;/th&gt;
- &lt;th style="text-align: left"&gt;MM&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;08&lt;/td&gt;
- &lt;td style="text-align: left"&gt;20 25 30 35 38 41 44 47 50 53 56 59&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;09&lt;/td&gt;
- &lt;td style="text-align: left"&gt;02&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;10&lt;/td&gt;
- &lt;td style="text-align: left"&gt;30 45 50 55&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;11&lt;/td&gt;
- &lt;td style="text-align: left"&gt;00&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;12&lt;/td&gt;
- &lt;td style="text-align: left"&gt;00&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: right"&gt;13&lt;/td&gt;
- &lt;td style="text-align: left"&gt;00&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;code&gt;To Atsugi Kyodo Museum via Kanagawa Institute of Technology (厚07)&lt;/code&gt;
-&lt;code&gt;To Tobio Apartment via Kanagawa Institute of Technology (厚89)&lt;/code&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accesses on Kanagawa Institute of Technology, Smart House Research Center</title>
+    <link>http://localhost:1313/en/access/</link>
+    <description>Recent content in Accesses on Kanagawa Institute of Technology, Smart House Research Center</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bus Time Table at Honatsugi Station(weekday): revised on 2026.04.01</title>
+      <link>http://localhost:1313/en/access/bus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/access/bus/</guid>
+      <description>&lt;h3 id=&#34;to-kanagawa-institute-of-technology&#34;&gt;To Kanagawa Institute of Technology&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;EXPRESS To Kanagawa Institute of Technology (厚67)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No operation through Feb 15th ~ Mar 25th and Aug 8th ~ Sep 19th (exact date may vary).&lt;/li&gt;&#xA;&lt;li&gt;Bus Stop: #2 bus stop at Atsugi Bus Center&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;HH&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;MM&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;08&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;20 25 30 35 38 41 44 47 50 53 56 59&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;09&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;02&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;10&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;30 45 50 55&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;11&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;12&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;13&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;code&gt;To Atsugi Kyodo Museum via Kanagawa Institute of Technology (厚07)&lt;/code&gt;&#xA;&lt;code&gt;To Tobio Apartment via Kanagawa Institute of Technology (厚89)&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

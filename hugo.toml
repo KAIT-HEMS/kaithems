@@ -8,10 +8,9 @@ defaultContentLanguageInSubdir = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true   # ← Markdown内HTMLを許可
+      unsafe = true   # ← Markdown内HTMLを有効にする
 
 [languages]
-
   [languages.ja]
     languageName = "日本語"
     weight = 1
