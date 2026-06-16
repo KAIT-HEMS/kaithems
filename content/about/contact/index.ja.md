@@ -1,8 +1,8 @@
 ---
-title: "お問合せ"
+title: "お問い合せ"
 type: "othres"
 ---
 
-お問合せはこちらへメールをお願いします。
+お問い合せはこちらへメールをお願いします。
 
  ![contact.png](./contact.png) 
