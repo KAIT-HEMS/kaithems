@@ -20,14 +20,13 @@
     {{ end }}
   </p>
 
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSesTgzTWhHJx0m4qL1o2uMUSWlGIV6GnO10sZVuMv8g5ma_hA/viewform?usp=header" target="_blank" class="btn btn-primary my-3">
-    {{ if eq .Site.Language.Lang "ja" }}
-    お問い合わせ
-    {{ else }}
-    CONTACT
-    {{ end }}
-
-  </a>
+      {{ if eq .Site.Language.Lang "ja" }}
+      {{ $page := .Site.GetPage "/about/contact" }}
+      <a href="{{ $page.RelPermalink }}" target="_blank" class="btn btn-primary">お問い合せ</a>
+      {{ else }}
+      {{ $page := .Site.GetPage "/about/contact" }}
+      <a href="{{ $page.RelPermalink }}" target="_blank" class="btn btn-primary">Contact</a>
+      {{ end }}
 
   <div class="row mt-5">
 

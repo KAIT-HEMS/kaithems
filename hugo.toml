@@ -64,6 +64,12 @@ defaultContentLanguageInSubdir = true
     weight = 3
 
   [[languages.ja.menu.main]]
+    parent = "センター紹介"
+    name = "お問い合せ"
+    url = "/ja/about/contact/"
+    weight = 4
+
+  [[languages.ja.menu.main]]
     name = "資料"
     url = "/ja/documents/"
     weight = 5
@@ -81,8 +87,8 @@ defaultContentLanguageInSubdir = true
 
   [[languages.ja.menu.main]]
     parent = "アクセス"
-    name = "マップと連絡先"
-    url = "/ja/access/map/accessmap.pdf"
+    name = "連絡先"
+    url = "/ja/access/map/contact.pdf"
     weight = 2
 
   [[languages.ja.menu.main]]
@@ -134,6 +140,12 @@ defaultContentLanguageInSubdir = true
     weight = 3
 
   [[languages.en.menu.main]]
+    parent = "About us"
+    name = "Contact"
+    url = "/en/about/contact/"
+    weight = 4
+
+  [[languages.en.menu.main]]
     name = "Documents"
     url = "/en/documents/"
     weight = 5
@@ -151,8 +163,8 @@ defaultContentLanguageInSubdir = true
 
   [[languages.en.menu.main]]
     parent = "Access"
-    name = "Map & Contact Info."
-    url = "/ja/access/map/accessmap.pdf"
+    name = "Contact Info."
+    url = "/ja/access/map/contact.pdf"
     weight = 2
 
   [[languages.en.menu.main]]
